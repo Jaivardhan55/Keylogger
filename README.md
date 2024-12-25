@@ -1,2 +1,2 @@
 # Keylogger
-My first project in Cybersecurity
+This records the keystrokes on the keyboard.
